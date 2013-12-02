@@ -4,6 +4,8 @@
 
 Silent formatter for [hydro](https://github.com/hydrojs/hydro)
 
+Useful when generating test coverage, etc.
+
 ## Usage
 
 This formatter comes with hydro and there is no need to install it separately.

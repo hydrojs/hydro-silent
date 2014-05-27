@@ -1,6 +1,6 @@
 {
   "name": "hydro-silent",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Silent formatter for hydro",
   "main": "index.js",
   "homepage": "https://github.com/hydrojs/hydro-silent",

@@ -11,9 +11,8 @@
   "peerDependencies": {
     "hydro": "0.x"
   },
-  "dependencies": {
-    "hydro-formatter": "~1.0.0"
-  },
+  "dependencies": {},
+  "files": ["index.js"],
   "author": "Veselin Todorov <hi@vesln.com>",
   "license": "MIT"
 }
